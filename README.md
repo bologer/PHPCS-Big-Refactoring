@@ -1,7 +1,8 @@
-# PHPCS PhpStorm/Webstorm Opener
+# PHPCS CLI Error Opener
+This tool helps you to process & open PHP_CodeSniffer errors in PhpStorm/Webstorm from CLI in queue manner
 
 ## Purpose of This Tool
-Image you've been given a task to introduce PHP sniffer for some reasonably big project.
+Image you've been given a task to introduce [PHP sniffer](https://github.com/squizlabs/PHP_CodeSniffer) for some reasonably big project.
 
 Surely you can use some automatic tools to make auto corrections on what is possible to correct (e.g. phpcbf, but it does only basic fixes).
 
